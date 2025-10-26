@@ -1,0 +1,2 @@
+Single Unit Perceptron
+This project implements a **Single-Layer Perceptron** to perform **binary classification** on a simple, linearly separable dataset. It uses scikit-learn to generate synthetic data, train the perceptron model, and evaluate its accuracy. The results are visualized with Matplotlib, showing both the data points and the **decision boundary** learned by the model. This project provides a clear understanding of how a perceptron learns to separate two classes using a linear decision rule.
